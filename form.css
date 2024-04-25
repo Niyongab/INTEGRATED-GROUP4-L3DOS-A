@@ -1,0 +1,35 @@
+*{
+  align-item:center;
+  justify-content:center;
+}
+h1{
+  font-family:selif;
+  font-weight:bold;
+  font-size:20px;
+}
+input{
+  background-color:black;
+  color:white;
+  border-radius:5px;
+  tet-align:center;
+  }
+fieldset{
+  border-radius:20px;
+  back-dropfilter: blur(15px);
+   align-item:center;
+  justify-content:center;
+}
+button{
+  border-radius:5px;
+  background-color:black;
+  color:white;
+  hover:violet;
+  tet-align:center;
+}
+label{
+  font-family:selif;
+  font-size:25px;
+  color:orange;
+  
+}
+
